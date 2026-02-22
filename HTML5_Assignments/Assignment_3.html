@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Learning Course Registration Portal</title>
+</head>
+<body>
+
+    <header>
+        <h1>E-Learning Course Registration Portal</h1>
+    </header>
+
+    <form action="" style="width: 300px;">
+        <fieldset>
+            <legend>Register Here...</legend>
+
+            <table>
+
+                <tr>
+                    <td>Course Selection</td>
+                    <td>
+                        <input list="courses" name="course" required>
+                        <datalist id="courses">
+                            <option value="Full Stack Development">
+                            <option value="Data Science">
+                            <option value="Artificial Intelligence">
+                            <option value="Cloud Computing">
+                            <option value="Cyber Security">
+                        </datalist>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Batch Selection</td>
+                    <td>
+                        <input type="month" name="batch" required>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Session Timing</td>
+                    <td>
+                        <input type="time" name="session_time" required>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Skill Level</td>
+                    <td>
+                        <input type="range" min="1" max="10" name="skill_level" required>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Enrollment Progress</td>
+                    <td>
+                        <progress value="75" max="100"></progress>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Program Introduction</td>
+                </tr>
+
+                <tr>
+                    <td colspan="2">
+                        <video controls width="500">
+                            <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+                            <source src="https://www.w3schools.com/html/mov_bbb.webm" type="video/webm">
+
+                            <track src="https://www.w3schools.com/html/mov_bbb_subtitles.vtt"
+                                   kind="subtitles"
+                                   srclang="en"
+                                   label="English"
+                                   default>
+
+                            Your browser does not support the video tag.
+                        </video>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="2">
+                        <input type="submit" value="Enroll Now">
+                    </td>
+                </tr>
+
+            </table>
+
+        </fieldset>
+    </form>
+
+    <footer>
+        <p>© 2026 E-Learning Platform</p>
+    </footer>
+
+</body>
+</html>
