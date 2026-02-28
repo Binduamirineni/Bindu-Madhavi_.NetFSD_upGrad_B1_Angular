@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Grade Evaluator</title>
+</head>
+<body>
+
+    <h1>Student Grade Evaluator</h1>
+
+    <input type="number" id="score" placeholder="Enter your score">
+    <button onclick="display()">Check your Grade</button>
+
+    <h2 id="result"></h2>
+
+    <script>
+        function display() {
+            let marks = document.getElementById("score").value;
+            marks = Number(marks);
+
+            let result = document.getElementById("result");
+
+            if (marks >= 75) {
+                result.innerText = "Grade A";
+            } 
+            else if (marks >= 60) {
+                result.innerText = "Grade B";
+            } 
+            else if (marks >= 40) {
+                result.innerText = "Grade C";
+            } 
+            else {
+                result.innerText = "Fail";
+            }
+        }
+    </script>
+
+</body>
+</html>

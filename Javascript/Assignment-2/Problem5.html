@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="profile" style="border:1px solid black; padding:15px; width:250px;">
+    </div>
+    <input type="number" id="marksInput" placeholder="Enter new marks">
+    <button onclick="updateMarks()">Update Marks</button>
+
+    <script>
+         let student = 
+        {
+            name: "Mansoor",
+            rollNo: 101,
+            marks: 80
+        };
+
+        function updateStudentProfile(studentObj) 
+        {
+            document.getElementById("profile").innerHTML =
+                "Name: " + studentObj.name + "<br>" +
+                "Roll No: " + studentObj.rollNo + "<br>" +
+                "Marks: " + studentObj.marks;
+        }
+
+        function updateMarks() {
+            let newMarks = document.getElementById("marksInput").value;
+            student.marks = newMarks;
+            updateStudentProfile(student);
+        }
+
+        updateStudentProfile(student);
+    </script>
+</body>
+</html>
