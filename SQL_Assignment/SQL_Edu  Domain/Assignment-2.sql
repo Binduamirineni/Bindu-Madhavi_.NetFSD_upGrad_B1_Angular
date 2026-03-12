@@ -1,0 +1,21 @@
+--Assignment - 2
+
+ALTER TABLE Students
+ADD CONSTRAINT CHK_Gender
+CHECK (Gender IN ('M','F'));
+
+ALTER TABLE Courses
+ADD CONSTRAINT CHK_Credits
+CHECK (Credits BETWEEN 1 AND 5);
+
+ALTER TABLE Marks
+ADD CONSTRAINT CHK_Marks
+CHECK (MarksObtained BETWEEN 0 AND 100);
+
+ALTER TABLE Teachers
+ADD CONSTRAINT CHK_Salary
+CHECK (Salary > 20000);
+
+ALTER TABLE Enrollments
+ADD CONSTRAINT DF_EnrollmentDate
+DEFAULT GETDATE() FOR EnrollmentDate;
