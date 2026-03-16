@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpAssignments\\Inheritance_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4876E45-89E3-488A-9BE3-750F1AD2C3C5}|Inheritance_Assignment.csproj|d:\\csharpassignments\\inheritance_assignment\\healthcaresystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4876E45-89E3-488A-9BE3-750F1AD2C3C5}|Inheritance_Assignment.csproj|solutionrelative:healthcaresystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4876E45-89E3-488A-9BE3-750F1AD2C3C5}|Inheritance_Assignment.csproj|d:\\csharpassignments\\inheritance_assignment\\furnituresystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4876E45-89E3-488A-9BE3-750F1AD2C3C5}|Inheritance_Assignment.csproj|solutionrelative:furnituresystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4876E45-89E3-488A-9BE3-750F1AD2C3C5}|Inheritance_Assignment.csproj|d:\\csharpassignments\\inheritance_assignment\\educationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4876E45-89E3-488A-9BE3-750F1AD2C3C5}|Inheritance_Assignment.csproj|solutionrelative:educationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4876E45-89E3-488A-9BE3-750F1AD2C3C5}|Inheritance_Assignment.csproj|d:\\csharpassignments\\inheritance_assignment\\vehiclemanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4876E45-89E3-488A-9BE3-750F1AD2C3C5}|Inheritance_Assignment.csproj|solutionrelative:vehiclemanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4876E45-89E3-488A-9BE3-750F1AD2C3C5}|Inheritance_Assignment.csproj|d:\\csharpassignments\\inheritance_assignment\\e-commerceordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4876E45-89E3-488A-9BE3-750F1AD2C3C5}|Inheritance_Assignment.csproj|solutionrelative:e-commerceordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4876E45-89E3-488A-9BE3-750F1AD2C3C5}|Inheritance_Assignment.csproj|d:\\csharpassignments\\inheritance_assignment\\bankingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4876E45-89E3-488A-9BE3-750F1AD2C3C5}|Inheritance_Assignment.csproj|solutionrelative:bankingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4876E45-89E3-488A-9BE3-750F1AD2C3C5}|Inheritance_Assignment.csproj|d:\\csharpassignments\\inheritance_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4876E45-89E3-488A-9BE3-750F1AD2C3C5}|Inheritance_Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FurnitureSystem.cs",
+              "DocumentMoniker": "D:\\CSharpAssignments\\Inheritance_Assignment\\FurnitureSystem.cs",
+              "RelativeDocumentMoniker": "FurnitureSystem.cs",
+              "ToolTip": "D:\\CSharpAssignments\\Inheritance_Assignment\\FurnitureSystem.cs",
+              "RelativeToolTip": "FurnitureSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:25:00.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EducationSystem.cs",
+              "DocumentMoniker": "D:\\CSharpAssignments\\Inheritance_Assignment\\EducationSystem.cs",
+              "RelativeDocumentMoniker": "EducationSystem.cs",
+              "ToolTip": "D:\\CSharpAssignments\\Inheritance_Assignment\\EducationSystem.cs",
+              "RelativeToolTip": "EducationSystem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:08:36.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleManagementSystem.cs",
+              "DocumentMoniker": "D:\\CSharpAssignments\\Inheritance_Assignment\\VehicleManagementSystem.cs",
+              "RelativeDocumentMoniker": "VehicleManagementSystem.cs",
+              "ToolTip": "D:\\CSharpAssignments\\Inheritance_Assignment\\VehicleManagementSystem.cs",
+              "RelativeToolTip": "VehicleManagementSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:02:11.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "E-CommerceOrderSystem.cs",
+              "DocumentMoniker": "D:\\CSharpAssignments\\Inheritance_Assignment\\E-CommerceOrderSystem.cs",
+              "RelativeDocumentMoniker": "E-CommerceOrderSystem.cs",
+              "ToolTip": "D:\\CSharpAssignments\\Inheritance_Assignment\\E-CommerceOrderSystem.cs",
+              "RelativeToolTip": "E-CommerceOrderSystem.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAuwEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:00:37.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankingSystem.cs",
+              "DocumentMoniker": "D:\\CSharpAssignments\\Inheritance_Assignment\\BankingSystem.cs",
+              "RelativeDocumentMoniker": "BankingSystem.cs",
+              "ToolTip": "D:\\CSharpAssignments\\Inheritance_Assignment\\BankingSystem.cs",
+              "RelativeToolTip": "BankingSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T09:52:00.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthCareSystem.cs",
+              "DocumentMoniker": "D:\\CSharpAssignments\\Inheritance_Assignment\\HealthCareSystem.cs",
+              "RelativeDocumentMoniker": "HealthCareSystem.cs",
+              "ToolTip": "D:\\CSharpAssignments\\Inheritance_Assignment\\HealthCareSystem.cs",
+              "RelativeToolTip": "HealthCareSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T09:47:37.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpAssignments\\Inheritance_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CSharpAssignments\\Inheritance_Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T09:44:52.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\CSharpAssignments\Inheritance_Assignment\bin\Debug\net10.0\Inheritance_Assignment.exe
+D:\CSharpAssignments\Inheritance_Assignment\bin\Debug\net10.0\Inheritance_Assignment.deps.json
+D:\CSharpAssignments\Inheritance_Assignment\bin\Debug\net10.0\Inheritance_Assignment.runtimeconfig.json
+D:\CSharpAssignments\Inheritance_Assignment\bin\Debug\net10.0\Inheritance_Assignment.dll
+D:\CSharpAssignments\Inheritance_Assignment\bin\Debug\net10.0\Inheritance_Assignment.pdb
+D:\CSharpAssignments\Inheritance_Assignment\obj\Debug\net10.0\Inheritance_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpAssignments\Inheritance_Assignment\obj\Debug\net10.0\Inheritance_Assignment.AssemblyInfoInputs.cache
+D:\CSharpAssignments\Inheritance_Assignment\obj\Debug\net10.0\Inheritance_Assignment.AssemblyInfo.cs
+D:\CSharpAssignments\Inheritance_Assignment\obj\Debug\net10.0\Inheritance_Assignment.csproj.CoreCompileInputs.cache
+D:\CSharpAssignments\Inheritance_Assignment\obj\Debug\net10.0\Inheritance_Assignment.dll
+D:\CSharpAssignments\Inheritance_Assignment\obj\Debug\net10.0\refint\Inheritance_Assignment.dll
+D:\CSharpAssignments\Inheritance_Assignment\obj\Debug\net10.0\Inheritance_Assignment.pdb
+D:\CSharpAssignments\Inheritance_Assignment\obj\Debug\net10.0\Inheritance_Assignment.genruntimeconfig.cache
+D:\CSharpAssignments\Inheritance_Assignment\obj\Debug\net10.0\ref\Inheritance_Assignment.dll
