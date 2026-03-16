@@ -1,0 +1,14 @@
+D:\c#Net Assignments\Assignment - 2\bin\Debug\net10.0\Assignment - 2.exe
+D:\c#Net Assignments\Assignment - 2\bin\Debug\net10.0\Assignment - 2.deps.json
+D:\c#Net Assignments\Assignment - 2\bin\Debug\net10.0\Assignment - 2.runtimeconfig.json
+D:\c#Net Assignments\Assignment - 2\bin\Debug\net10.0\Assignment - 2.dll
+D:\c#Net Assignments\Assignment - 2\bin\Debug\net10.0\Assignment - 2.pdb
+D:\c#Net Assignments\Assignment - 2\obj\Debug\net10.0\Assignment - 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Net Assignments\Assignment - 2\obj\Debug\net10.0\Assignment - 2.AssemblyInfoInputs.cache
+D:\c#Net Assignments\Assignment - 2\obj\Debug\net10.0\Assignment - 2.AssemblyInfo.cs
+D:\c#Net Assignments\Assignment - 2\obj\Debug\net10.0\Assignment - 2.csproj.CoreCompileInputs.cache
+D:\c#Net Assignments\Assignment - 2\obj\Debug\net10.0\Assignment - 2.dll
+D:\c#Net Assignments\Assignment - 2\obj\Debug\net10.0\refint\Assignment - 2.dll
+D:\c#Net Assignments\Assignment - 2\obj\Debug\net10.0\Assignment - 2.pdb
+D:\c#Net Assignments\Assignment - 2\obj\Debug\net10.0\Assignment - 2.genruntimeconfig.cache
+D:\c#Net Assignments\Assignment - 2\obj\Debug\net10.0\ref\Assignment - 2.dll

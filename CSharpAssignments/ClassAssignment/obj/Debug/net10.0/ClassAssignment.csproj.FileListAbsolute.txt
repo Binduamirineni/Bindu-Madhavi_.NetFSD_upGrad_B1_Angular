@@ -1,0 +1,14 @@
+D:\CSharpAssignments\ClassAssignment\bin\Debug\net10.0\ClassAssignment.exe
+D:\CSharpAssignments\ClassAssignment\bin\Debug\net10.0\ClassAssignment.deps.json
+D:\CSharpAssignments\ClassAssignment\bin\Debug\net10.0\ClassAssignment.runtimeconfig.json
+D:\CSharpAssignments\ClassAssignment\bin\Debug\net10.0\ClassAssignment.dll
+D:\CSharpAssignments\ClassAssignment\bin\Debug\net10.0\ClassAssignment.pdb
+D:\CSharpAssignments\ClassAssignment\obj\Debug\net10.0\ClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpAssignments\ClassAssignment\obj\Debug\net10.0\ClassAssignment.AssemblyInfoInputs.cache
+D:\CSharpAssignments\ClassAssignment\obj\Debug\net10.0\ClassAssignment.AssemblyInfo.cs
+D:\CSharpAssignments\ClassAssignment\obj\Debug\net10.0\ClassAssignment.csproj.CoreCompileInputs.cache
+D:\CSharpAssignments\ClassAssignment\obj\Debug\net10.0\ClassAssignment.dll
+D:\CSharpAssignments\ClassAssignment\obj\Debug\net10.0\refint\ClassAssignment.dll
+D:\CSharpAssignments\ClassAssignment\obj\Debug\net10.0\ClassAssignment.pdb
+D:\CSharpAssignments\ClassAssignment\obj\Debug\net10.0\ClassAssignment.genruntimeconfig.cache
+D:\CSharpAssignments\ClassAssignment\obj\Debug\net10.0\ref\ClassAssignment.dll
