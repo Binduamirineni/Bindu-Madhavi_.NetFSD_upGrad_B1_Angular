@@ -1,0 +1,14 @@
+D:\CSharpAssignments\Interfaces_Assignment\bin\Debug\net10.0\Interfaces_Assignment.exe
+D:\CSharpAssignments\Interfaces_Assignment\bin\Debug\net10.0\Interfaces_Assignment.deps.json
+D:\CSharpAssignments\Interfaces_Assignment\bin\Debug\net10.0\Interfaces_Assignment.runtimeconfig.json
+D:\CSharpAssignments\Interfaces_Assignment\bin\Debug\net10.0\Interfaces_Assignment.dll
+D:\CSharpAssignments\Interfaces_Assignment\bin\Debug\net10.0\Interfaces_Assignment.pdb
+D:\CSharpAssignments\Interfaces_Assignment\obj\Debug\net10.0\Interfaces_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpAssignments\Interfaces_Assignment\obj\Debug\net10.0\Interfaces_Assignment.AssemblyInfoInputs.cache
+D:\CSharpAssignments\Interfaces_Assignment\obj\Debug\net10.0\Interfaces_Assignment.AssemblyInfo.cs
+D:\CSharpAssignments\Interfaces_Assignment\obj\Debug\net10.0\Interfaces_Assignment.csproj.CoreCompileInputs.cache
+D:\CSharpAssignments\Interfaces_Assignment\obj\Debug\net10.0\Interfaces_Assignment.dll
+D:\CSharpAssignments\Interfaces_Assignment\obj\Debug\net10.0\refint\Interfaces_Assignment.dll
+D:\CSharpAssignments\Interfaces_Assignment\obj\Debug\net10.0\Interfaces_Assignment.pdb
+D:\CSharpAssignments\Interfaces_Assignment\obj\Debug\net10.0\Interfaces_Assignment.genruntimeconfig.cache
+D:\CSharpAssignments\Interfaces_Assignment\obj\Debug\net10.0\ref\Interfaces_Assignment.dll
