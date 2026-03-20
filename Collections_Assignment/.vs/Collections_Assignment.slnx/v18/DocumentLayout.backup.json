@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpAssignments\\Collections_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{746F13E7-75F0-4E16-9ADC-2F6EFDAD0D88}|Collections_Assignment.csproj|d:\\csharpassignments\\collections_assignment\\collections_assignment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{746F13E7-75F0-4E16-9ADC-2F6EFDAD0D88}|Collections_Assignment.csproj|solutionrelative:collections_assignment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746F13E7-75F0-4E16-9ADC-2F6EFDAD0D88}|Collections_Assignment.csproj|d:\\csharpassignments\\collections_assignment\\musicplaylistsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746F13E7-75F0-4E16-9ADC-2F6EFDAD0D88}|Collections_Assignment.csproj|solutionrelative:musicplaylistsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746F13E7-75F0-4E16-9ADC-2F6EFDAD0D88}|Collections_Assignment.csproj|d:\\csharpassignments\\collections_assignment\\hospitalqueuesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746F13E7-75F0-4E16-9ADC-2F6EFDAD0D88}|Collections_Assignment.csproj|solutionrelative:hospitalqueuesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746F13E7-75F0-4E16-9ADC-2F6EFDAD0D88}|Collections_Assignment.csproj|d:\\csharpassignments\\collections_assignment\\texteditorundoredo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746F13E7-75F0-4E16-9ADC-2F6EFDAD0D88}|Collections_Assignment.csproj|solutionrelative:texteditorundoredo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746F13E7-75F0-4E16-9ADC-2F6EFDAD0D88}|Collections_Assignment.csproj|d:\\csharpassignments\\collections_assignment\\eventregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746F13E7-75F0-4E16-9ADC-2F6EFDAD0D88}|Collections_Assignment.csproj|solutionrelative:eventregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746F13E7-75F0-4E16-9ADC-2F6EFDAD0D88}|Collections_Assignment.csproj|d:\\csharpassignments\\collections_assignment\\studentmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746F13E7-75F0-4E16-9ADC-2F6EFDAD0D88}|Collections_Assignment.csproj|solutionrelative:studentmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746F13E7-75F0-4E16-9ADC-2F6EFDAD0D88}|Collections_Assignment.csproj|d:\\csharpassignments\\collections_assignment\\e-commerce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746F13E7-75F0-4E16-9ADC-2F6EFDAD0D88}|Collections_Assignment.csproj|solutionrelative:e-commerce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746F13E7-75F0-4E16-9ADC-2F6EFDAD0D88}|Collections_Assignment.csproj|d:\\csharpassignments\\collections_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746F13E7-75F0-4E16-9ADC-2F6EFDAD0D88}|Collections_Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Collections_Assignment",
+              "DocumentMoniker": "D:\\CSharpAssignments\\Collections_Assignment\\Collections_Assignment.csproj",
+              "RelativeDocumentMoniker": "Collections_Assignment.csproj",
+              "ToolTip": "D:\\CSharpAssignments\\Collections_Assignment\\Collections_Assignment.csproj",
+              "RelativeToolTip": "Collections_Assignment.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-18T10:02:39.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicPlaylistSystem.cs",
+              "DocumentMoniker": "D:\\CSharpAssignments\\Collections_Assignment\\MusicPlaylistSystem.cs",
+              "RelativeDocumentMoniker": "MusicPlaylistSystem.cs",
+              "ToolTip": "D:\\CSharpAssignments\\Collections_Assignment\\MusicPlaylistSystem.cs*",
+              "RelativeToolTip": "MusicPlaylistSystem.cs*",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAowFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T10:02:29.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HospitalQueueSystem.cs",
+              "DocumentMoniker": "D:\\CSharpAssignments\\Collections_Assignment\\HospitalQueueSystem.cs",
+              "RelativeDocumentMoniker": "HospitalQueueSystem.cs",
+              "ToolTip": "D:\\CSharpAssignments\\Collections_Assignment\\HospitalQueueSystem.cs",
+              "RelativeToolTip": "HospitalQueueSystem.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:59:03.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextEditorUndoRedo.cs",
+              "DocumentMoniker": "D:\\CSharpAssignments\\Collections_Assignment\\TextEditorUndoRedo.cs",
+              "RelativeDocumentMoniker": "TextEditorUndoRedo.cs",
+              "ToolTip": "D:\\CSharpAssignments\\Collections_Assignment\\TextEditorUndoRedo.cs",
+              "RelativeToolTip": "TextEditorUndoRedo.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:55:58.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventRegistration.cs",
+              "DocumentMoniker": "D:\\CSharpAssignments\\Collections_Assignment\\EventRegistration.cs",
+              "RelativeDocumentMoniker": "EventRegistration.cs",
+              "ToolTip": "D:\\CSharpAssignments\\Collections_Assignment\\EventRegistration.cs",
+              "RelativeToolTip": "EventRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:51:11.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentManagementSystem.cs",
+              "DocumentMoniker": "D:\\CSharpAssignments\\Collections_Assignment\\StudentManagementSystem.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.cs",
+              "ToolTip": "D:\\CSharpAssignments\\Collections_Assignment\\StudentManagementSystem.cs",
+              "RelativeToolTip": "StudentManagementSystem.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAowFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:47:14.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "E-Commerce.cs",
+              "DocumentMoniker": "D:\\CSharpAssignments\\Collections_Assignment\\E-Commerce.cs",
+              "RelativeDocumentMoniker": "E-Commerce.cs",
+              "ToolTip": "D:\\CSharpAssignments\\Collections_Assignment\\E-Commerce.cs",
+              "RelativeToolTip": "E-Commerce.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:43:34.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpAssignments\\Collections_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CSharpAssignments\\Collections_Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:42:54.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
