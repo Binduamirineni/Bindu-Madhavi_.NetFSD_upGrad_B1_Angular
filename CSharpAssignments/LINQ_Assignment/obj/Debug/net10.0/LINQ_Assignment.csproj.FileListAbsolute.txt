@@ -1,0 +1,14 @@
+D:\CSharpAssignments\LINQ_Assignment\bin\Debug\net10.0\LINQ_Assignment.exe
+D:\CSharpAssignments\LINQ_Assignment\bin\Debug\net10.0\LINQ_Assignment.deps.json
+D:\CSharpAssignments\LINQ_Assignment\bin\Debug\net10.0\LINQ_Assignment.runtimeconfig.json
+D:\CSharpAssignments\LINQ_Assignment\bin\Debug\net10.0\LINQ_Assignment.dll
+D:\CSharpAssignments\LINQ_Assignment\bin\Debug\net10.0\LINQ_Assignment.pdb
+D:\CSharpAssignments\LINQ_Assignment\obj\Debug\net10.0\LINQ_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpAssignments\LINQ_Assignment\obj\Debug\net10.0\LINQ_Assignment.AssemblyInfoInputs.cache
+D:\CSharpAssignments\LINQ_Assignment\obj\Debug\net10.0\LINQ_Assignment.AssemblyInfo.cs
+D:\CSharpAssignments\LINQ_Assignment\obj\Debug\net10.0\LINQ_Assignment.csproj.CoreCompileInputs.cache
+D:\CSharpAssignments\LINQ_Assignment\obj\Debug\net10.0\LINQ_Assignment.dll
+D:\CSharpAssignments\LINQ_Assignment\obj\Debug\net10.0\refint\LINQ_Assignment.dll
+D:\CSharpAssignments\LINQ_Assignment\obj\Debug\net10.0\LINQ_Assignment.pdb
+D:\CSharpAssignments\LINQ_Assignment\obj\Debug\net10.0\LINQ_Assignment.genruntimeconfig.cache
+D:\CSharpAssignments\LINQ_Assignment\obj\Debug\net10.0\ref\LINQ_Assignment.dll

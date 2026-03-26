@@ -1,0 +1,14 @@
+D:\CSharpAssignments\MultiThreading_Assignment\bin\Debug\net10.0\MultiThreading_Assignment.exe
+D:\CSharpAssignments\MultiThreading_Assignment\bin\Debug\net10.0\MultiThreading_Assignment.deps.json
+D:\CSharpAssignments\MultiThreading_Assignment\bin\Debug\net10.0\MultiThreading_Assignment.runtimeconfig.json
+D:\CSharpAssignments\MultiThreading_Assignment\bin\Debug\net10.0\MultiThreading_Assignment.dll
+D:\CSharpAssignments\MultiThreading_Assignment\bin\Debug\net10.0\MultiThreading_Assignment.pdb
+D:\CSharpAssignments\MultiThreading_Assignment\obj\Debug\net10.0\MultiThreading_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpAssignments\MultiThreading_Assignment\obj\Debug\net10.0\MultiThreading_Assignment.AssemblyInfoInputs.cache
+D:\CSharpAssignments\MultiThreading_Assignment\obj\Debug\net10.0\MultiThreading_Assignment.AssemblyInfo.cs
+D:\CSharpAssignments\MultiThreading_Assignment\obj\Debug\net10.0\MultiThreading_Assignment.csproj.CoreCompileInputs.cache
+D:\CSharpAssignments\MultiThreading_Assignment\obj\Debug\net10.0\MultiThreading_Assignment.dll
+D:\CSharpAssignments\MultiThreading_Assignment\obj\Debug\net10.0\refint\MultiThreading_Assignment.dll
+D:\CSharpAssignments\MultiThreading_Assignment\obj\Debug\net10.0\MultiThreading_Assignment.pdb
+D:\CSharpAssignments\MultiThreading_Assignment\obj\Debug\net10.0\MultiThreading_Assignment.genruntimeconfig.cache
+D:\CSharpAssignments\MultiThreading_Assignment\obj\Debug\net10.0\ref\MultiThreading_Assignment.dll

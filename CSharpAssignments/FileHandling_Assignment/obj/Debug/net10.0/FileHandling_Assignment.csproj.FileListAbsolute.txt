@@ -1,0 +1,14 @@
+D:\CSharpAssignments\FileHandling_Assignment\bin\Debug\net10.0\FileHandling_Assignment.exe
+D:\CSharpAssignments\FileHandling_Assignment\bin\Debug\net10.0\FileHandling_Assignment.deps.json
+D:\CSharpAssignments\FileHandling_Assignment\bin\Debug\net10.0\FileHandling_Assignment.runtimeconfig.json
+D:\CSharpAssignments\FileHandling_Assignment\bin\Debug\net10.0\FileHandling_Assignment.dll
+D:\CSharpAssignments\FileHandling_Assignment\bin\Debug\net10.0\FileHandling_Assignment.pdb
+D:\CSharpAssignments\FileHandling_Assignment\obj\Debug\net10.0\FileHandling_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpAssignments\FileHandling_Assignment\obj\Debug\net10.0\FileHandling_Assignment.AssemblyInfoInputs.cache
+D:\CSharpAssignments\FileHandling_Assignment\obj\Debug\net10.0\FileHandling_Assignment.AssemblyInfo.cs
+D:\CSharpAssignments\FileHandling_Assignment\obj\Debug\net10.0\FileHandling_Assignment.csproj.CoreCompileInputs.cache
+D:\CSharpAssignments\FileHandling_Assignment\obj\Debug\net10.0\FileHandling_Assignment.dll
+D:\CSharpAssignments\FileHandling_Assignment\obj\Debug\net10.0\refint\FileHandling_Assignment.dll
+D:\CSharpAssignments\FileHandling_Assignment\obj\Debug\net10.0\FileHandling_Assignment.pdb
+D:\CSharpAssignments\FileHandling_Assignment\obj\Debug\net10.0\FileHandling_Assignment.genruntimeconfig.cache
+D:\CSharpAssignments\FileHandling_Assignment\obj\Debug\net10.0\ref\FileHandling_Assignment.dll

@@ -1,0 +1,6 @@
+Student Name: Bindu
+Roll Number: 405
+Marks: 98, 96, 95
+Total: 289
+Average: 96.33333333333333
+Grade: A

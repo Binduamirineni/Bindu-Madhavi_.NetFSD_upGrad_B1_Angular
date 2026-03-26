@@ -1,0 +1,6 @@
+Student Name: Ravi
+Roll Number: 408
+Marks: 94, 86, 89
+Total: 269
+Average: 89.66666666666667
+Grade: A

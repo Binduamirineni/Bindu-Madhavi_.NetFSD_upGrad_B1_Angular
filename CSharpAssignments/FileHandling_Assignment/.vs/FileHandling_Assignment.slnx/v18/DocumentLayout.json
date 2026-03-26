@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpAssignments\\FileHandling_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75FB0790-B716-4F5C-A252-FA232AA60AFB}|FileHandling_Assignment.csproj|d:\\csharpassignments\\filehandling_assignment\\mininotepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FB0790-B716-4F5C-A252-FA232AA60AFB}|FileHandling_Assignment.csproj|solutionrelative:mininotepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FB0790-B716-4F5C-A252-FA232AA60AFB}|FileHandling_Assignment.csproj|d:\\csharpassignments\\filehandling_assignment\\filehandling_assignment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{75FB0790-B716-4F5C-A252-FA232AA60AFB}|FileHandling_Assignment.csproj|solutionrelative:filehandling_assignment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FB0790-B716-4F5C-A252-FA232AA60AFB}|FileHandling_Assignment.csproj|d:\\csharpassignments\\filehandling_assignment\\studentreportcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FB0790-B716-4F5C-A252-FA232AA60AFB}|FileHandling_Assignment.csproj|solutionrelative:studentreportcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FB0790-B716-4F5C-A252-FA232AA60AFB}|FileHandling_Assignment.csproj|d:\\csharpassignments\\filehandling_assignment\\employeelogmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FB0790-B716-4F5C-A252-FA232AA60AFB}|FileHandling_Assignment.csproj|solutionrelative:employeelogmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FB0790-B716-4F5C-A252-FA232AA60AFB}|FileHandling_Assignment.csproj|d:\\csharpassignments\\filehandling_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FB0790-B716-4F5C-A252-FA232AA60AFB}|FileHandling_Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileHandling_Assignment",
+              "DocumentMoniker": "D:\\CSharpAssignments\\FileHandling_Assignment\\FileHandling_Assignment.csproj",
+              "RelativeDocumentMoniker": "FileHandling_Assignment.csproj",
+              "ToolTip": "D:\\CSharpAssignments\\FileHandling_Assignment\\FileHandling_Assignment.csproj",
+              "RelativeToolTip": "FileHandling_Assignment.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T16:51:15.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiniNotepad.cs",
+              "DocumentMoniker": "D:\\CSharpAssignments\\FileHandling_Assignment\\MiniNotepad.cs",
+              "RelativeDocumentMoniker": "MiniNotepad.cs",
+              "ToolTip": "D:\\CSharpAssignments\\FileHandling_Assignment\\MiniNotepad.cs",
+              "RelativeToolTip": "MiniNotepad.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAowLkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:51:01.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentReportCard.cs",
+              "DocumentMoniker": "D:\\CSharpAssignments\\FileHandling_Assignment\\StudentReportCard.cs",
+              "RelativeDocumentMoniker": "StudentReportCard.cs",
+              "ToolTip": "D:\\CSharpAssignments\\FileHandling_Assignment\\StudentReportCard.cs",
+              "RelativeToolTip": "StudentReportCard.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAowIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:46:18.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeLogManagementSystem.cs",
+              "DocumentMoniker": "D:\\CSharpAssignments\\FileHandling_Assignment\\EmployeeLogManagementSystem.cs",
+              "RelativeDocumentMoniker": "EmployeeLogManagementSystem.cs",
+              "ToolTip": "D:\\CSharpAssignments\\FileHandling_Assignment\\EmployeeLogManagementSystem.cs",
+              "RelativeToolTip": "EmployeeLogManagementSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:36:14.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpAssignments\\FileHandling_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CSharpAssignments\\FileHandling_Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:34:47.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
